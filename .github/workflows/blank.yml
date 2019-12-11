@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # Checking out
     - uses: actions/checkout@v1
 
     # Looking for caches
