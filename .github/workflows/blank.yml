@@ -28,3 +28,4 @@ jobs:
     # The following generates a debug APK
     - name: Build with Gradle
       run: ./gradlew assembleDebug
+
